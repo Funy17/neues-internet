@@ -60,6 +60,17 @@
       "year": 2022,
       "group": "Testimonials / Sonstiges",
       "brand": false
+    },
+    {
+      "id": 29,
+      "title": "Evomaid S2 Pro · Fensterputzroboter",
+      "year": null,
+      "group": "Werbung / UGC",
+      "brand": true,
+      "filename": "evomaid-s2-pro-ohne-pausen.mp4",
+      "poster": "evomaid-s2-pro.jpg",
+      "originalFilename": "Evomaid-S2-Pro-03-ohne-Pausen.mov",
+      "note": "Version ohne Pausen, einzeln zur Veröffentlichung beauftragt"
     }
   ],
   "experience": [
