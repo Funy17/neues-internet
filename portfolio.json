@@ -1,0 +1,82 @@
+{
+  "showBrandClips": false,
+  "videos": [
+    {
+      "title": "Vorstellungsvideo",
+      "filename": "clip-02.mp4",
+      "kind": "video",
+      "bytes": 12166407,
+      "mime": "video/mp4",
+      "codec": "h264",
+      "duration": "34.314000",
+      "originalFilename": "Vorstellung-2025-10-15.mov",
+      "poster": "clip-02.jpg",
+      "id": 2,
+      "year": 2025,
+      "group": "Testimonials / Sonstiges",
+      "brand": false
+    },
+    {
+      "title": "Jobwork · Bewerbung",
+      "filename": "clip-15.mp4",
+      "kind": "video",
+      "bytes": 14863921,
+      "mime": "video/mp4",
+      "codec": "h264",
+      "duration": "33.656000",
+      "originalFilename": "763e9fda88314a6eb08fd789d6351c7b.mov",
+      "poster": "clip-15.jpg",
+      "id": 15,
+      "year": 2025,
+      "group": "Testimonials / Sonstiges",
+      "brand": true
+    },
+    {
+      "title": "Clip 02",
+      "filename": "clip-25.mp4",
+      "kind": "video",
+      "bytes": 1765261,
+      "mime": "video/mp4",
+      "codec": "h264",
+      "duration": "15.451000",
+      "originalFilename": "IMG_1323.MOV",
+      "poster": "clip-25.jpg",
+      "id": 25,
+      "year": null,
+      "group": "Testimonials / Sonstiges",
+      "brand": false
+    },
+    {
+      "title": "Weihnachtsansprache an die Familie",
+      "filename": "clip-28.mp4",
+      "kind": "video",
+      "bytes": 16941915,
+      "mime": "video/mp4",
+      "codec": "h264",
+      "duration": "95.630000",
+      "originalFilename": "IMG_1479.MOV",
+      "poster": "clip-28.jpg",
+      "id": 28,
+      "year": 2022,
+      "group": "Testimonials / Sonstiges",
+      "brand": false
+    }
+  ],
+  "experience": [
+    {
+      "period": "2024 - heute",
+      "title": "UGC-Clips",
+      "detail": "Diverse Auftraggeber"
+    },
+    {
+      "period": "2011 - 2022",
+      "title": "Darsteller",
+      "detail": "Zahlreiche Einsätze, auch mit Text"
+    },
+    {
+      "period": "2011 - 2022",
+      "title": "Model",
+      "detail": "Zahlreiche Einsätze"
+    }
+  ]
+}
