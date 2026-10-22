@@ -323,6 +323,39 @@
       "group": "Werbung / UGC",
       "brand": true,
       "duration": "66.346667"
+    },
+    {
+      "id": 31,
+      "title": "Asado Brothers · Gehaltserhöhung",
+      "year": null,
+      "filename": "asado-brothers-gehaltserhoehung.mp4",
+      "poster": "asado-brothers-gehaltserhoehung.jpg",
+      "group": "Werbung / UGC",
+      "brand": true,
+      "duration": "29.166667",
+      "bytes": 5939368
+    },
+    {
+      "id": 32,
+      "title": "Asado Brothers · Gen Z in 30 Jahren",
+      "year": null,
+      "filename": "asado-brothers-gen-z-in-30-jahren.mp4",
+      "poster": "asado-brothers-gen-z-in-30-jahren.jpg",
+      "group": "Werbung / UGC",
+      "brand": true,
+      "duration": "36.337778",
+      "bytes": 7456392
+    },
+    {
+      "id": 33,
+      "title": "Asado Brothers · Der Chef kommt",
+      "year": null,
+      "filename": "asado-brothers-der-chef-kommt.mp4",
+      "poster": "asado-brothers-der-chef-kommt.jpg",
+      "group": "Werbung / UGC",
+      "brand": true,
+      "duration": "8.900000",
+      "bytes": 1869583
     }
   ],
   "experience": [
